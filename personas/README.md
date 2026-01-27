@@ -25,11 +25,11 @@ Where your authority ends and what to protect.
 Use this prompt to draft a new persona:
 
 > "Draft a persona for the role: **[ROLE NAME]**.
-> 
+>
 > Structure it with two sections:
 > 1. **Role** — purpose, tone, workflow, and what success looks like.
 > 2. **Guardrails** — when to stop and consult, and integrity rules.
-> 
+>
 > Keep the language professional, human-centered, and direct."
 
 
