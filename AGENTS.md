@@ -17,3 +17,4 @@ The project defines specific roles for successful human-agent partnership. To ad
 - **Choose Your Role**: Select the persona that best matches your current objective to ensure the right constraints and focus.
 - **Match the Truth**: Use the **Project Space** and **Workflow** sections of the manual to align your actions with the current project state.
 - **Maintain the Standard**: Every contribution is held to the [Principles of Collaboration](PRINCIPLES.md), regardless of the role assumed.
+- **Communicate Clearly**: Follow the [Style Guide](STYLE.md) for all written work.
